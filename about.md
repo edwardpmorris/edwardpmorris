@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Dr Edward P. Morris
 
-### More Information
+Post-doctoral researcher
 
-A place to include any other types of information that you'd like to include about yourself. 
+Facultad de CC. del Mar y Ambientales
 
-### Contact me
+CEI·MAR (http://www.campusdelmar.es) - Universidad de Cádiz
 
-[email@domain.com](mailto:email@domain.com)
+11510 Puerto Real (Cádiz), Spain
+
+E-mail: [edward.morris@uca.es](mailto:edward.morris@uca.es) Tel: +34 956016587 Skype: edwardpetermorris
+
+http://rnm214.uca.es/CV/emorris/cvepmorris www.fast-space-project.eu
