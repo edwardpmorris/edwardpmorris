@@ -1,0 +1,14 @@
+---
+author: "Edward P. Morris" # document author
+date: '`r format(Sys.Date(), "%Y-%m-%d")`' # document generation date
+output: html_document # document rendering format
+title:  "Example of including metadata within dataset description document"  # document and dataset title
+dataset_person:	FAST project team	 # person or organisation or project responsible for dataset archiving and publication
+dataset_party: FAST # organisation or project responsible for dataset archiving and publication
+dataset_phone:	"+3188 335 8273"	 # phone number responsible for dataset archiving and publication
+dataset_address:	"Boussinesqweg 1"	 # address responsible for dataset archiving and publication
+dataset_city:	Delft	 # city responsible for dataset archiving and publication
+dataset_pobx:	2629 HV Delft  P.O. Box 177	 # PO box responsible for dataset archiving and publication
+dataset_country:	The Netherlands	 # country responsible for dataset archiving and publication
+dataset_mail:	deltaresdata@deltares.nl	 # email responsible for dataset archiving and publication
+---
