@@ -1,4 +1,4 @@
----
+```yaml
 author: "Edward P. Morris" # document author
 date: '`r format(Sys.Date(), "%Y-%m-%d")`' # document generation date
 output: html_document # document rendering format
@@ -11,4 +11,4 @@ dataset_city:	Delft	 # city responsible for dataset archiving and publication
 dataset_pobx:	2629 HV Delft  P.O. Box 177	 # PO box responsible for dataset archiving and publication
 dataset_country:	The Netherlands	 # country responsible for dataset archiving and publication
 dataset_mail:	deltaresdata@deltares.nl	 # email responsible for dataset archiving and publication
----
+```
