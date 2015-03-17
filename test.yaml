@@ -1,4 +1,4 @@
-```yaml
+```
 author: "Edward P. Morris" # document author
 date: '`r format(Sys.Date(), "%Y-%m-%d")`' # document generation date
 output: html_document # document rendering format
